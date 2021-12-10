@@ -32,10 +32,13 @@ Ethereum had the highest (max) positive score at 0.2210.
 2. List the top 10 words for each coin.
 3. Word Clouds
   
-    ![image](./images/XX.png)   
-    ![image](./images/XX.png)   
+    ![image](./images/bitcoinwordcloud.png)   
+    ![image](./images/ethereumwordcloud.png)   
 
 ## Part 3
-### Named Entity Recognition - In process
-
+### Named Entity Recognition - Completed.
+- Bitcoin GPEs:   
+['Somerset', 'N.Y.', 'El Salvador/', 'El Salvador', 'Bitcoin City', 'El Salvador', 'Bitcoin City', 'Florida', 'El Salvador', 'Bitcoin City', 'Florida', 'Florida']
+- Ethereum GPEs:  
+['Sothebys', 'Search', 'DeFi', 'DeFi', 'US']
 
