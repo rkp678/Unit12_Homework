@@ -23,8 +23,8 @@ Ethereum had the highest mean for compound score at 0.250890 vs Bitcoin at 0.099
 Ethereum had the highest (max) positive score at 0.2210.
 
   
-    ![image](./images/btc_describe.png)     
-    ![image](./images/eth_describe.png)   
+    ![image](./Images/btc_describe.png)     
+    ![image](./Images/eth_describe.png)   
 
 ## Part 2
 ### Natural Language Processing - Completed.
@@ -32,8 +32,8 @@ Ethereum had the highest (max) positive score at 0.2210.
 2. List the top 10 words for each coin.
 3. Word Clouds
   
-    ![image](./images/bitcoinwordcloud.png)   
-    ![image](./images/ethereumwordcloud.png)   
+    ![image](./Images/bitcoinwordcloud.png)   
+    ![image](./Images/ethereumwordcloud.png)   
 
 ## Part 3
 ### Named Entity Recognition - Completed.
